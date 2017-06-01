@@ -1,6 +1,6 @@
 # cassandra-pos-db
 
-This contains cassandra database structure and sample data for multi-tenant Cassandra database.
+This contains cassandra database structure and sample data for a multi-tenant Cassandra database.
 
 #Conventions
 ```
